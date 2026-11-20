@@ -1,0 +1,21 @@
+# Hanya file yang dipakai website yang dipublikasikan.
+/forms/
+/Readme.txt
+/assets/scss/
+/assets/vendor/php-email-form/
+/portfolio-details.html
+/service-details.html
+/starter-page.html
+
+# Gambar contoh template yang tidak dipakai index.html
+/assets/img/*.jpg
+/assets/img/*.png
+/assets/img/*.webp
+/assets/img/clients/
+/assets/img/portfolio/
+/assets/img/team/
+/assets/img/testimonials/
+
+Thumbs.db
+.DS_Store
+*.map
